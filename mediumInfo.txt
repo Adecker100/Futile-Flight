@@ -1,0 +1,10 @@
+52 9
+ ----------------Ship Class: Frigate--------------- 
+                                                    
+Laser Banks:       8              Starting Fuel:  50
+                                                    
+Torpedo Tubes:     4         Starting Torpedoes:  50
+                                                    
+Hull Strength:    75                       Crew:  20
+                                                    
+Shield Strength:  75             Cargo Capacity: 100

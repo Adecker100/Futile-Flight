@@ -1,0 +1,10 @@
+52 9
+ -----------------Ship Class: Scout---------------- 
+                                                    
+Laser Banks:       3              Starting Fuel:  25
+                                                    
+Torpedo Tubes:     2         Starting Torpedoes:  25
+                                                    
+Hull Strength:    50                       Crew:  10
+                                                    
+Shield Strength:  50             Cargo Capacity:  50

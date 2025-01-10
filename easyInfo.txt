@@ -1,0 +1,10 @@
+52 9
+ --------------Ship Class: Battleship-------------- 
+                                                    
+Laser Banks:      11              Starting Fuel:  75
+                                                    
+Torpedo Tubes:     5         Starting Torpedoes: 100
+                                                    
+Hull Strength:   100                       Crew:  30
+                                                    
+Shield Strength: 100             Cargo Capacity: 175

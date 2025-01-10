@@ -1,0 +1,47 @@
+100 46
+                                            Instructions                                            
+====================================================================================================
+                                                                                                    
+   Greetings engineer! You are about to set off on your first assignment as chief engineer of a     
+starship! Unfortunately for you, the galaxy is at war and your captain is a little trigger-happy.   
+I guess that means it's up to you to make sure your ship and crew last as long as possible in this  
+cold, dark expanse we call space. Let's take a look how...                                          
+                                                                                                    
+   During gameplay, in the upper-righthand corner of your screen, you will see a bar with 4 tabs,   
+labeled Sector Overview, Ship Status, Energy Management, and Systems Repair. It is through these    
+tabs that you cast the fate of the entire ship and its crew... so let's teach you how to use 'em.   
+                                                                                                    
+Press '1' to see ***Sector Overview***                                                              
+                                                                                                    
+   Use the left and right arrow keys to traverse through the list of objects in the sector to see   
+their stats. When you have a planet selected, pressing the Enter key will move the ship into orbit  
+of that planet, allowing you to see how much of each resource it has, expending 1 fuel in the       
+process. Pressing the Enter key again will transfer as much of those resources as you can hold to   
+your ship. The planet will update accordingly. If there are no enemy ships in your sector, you can  
+save the game by pressing the 's' key. You can also move to a new sector by pressing the 'n' key.   
+                                                                                                    
+Press '2' to see ***Ship Status***                                                                  
+   This tab shows you the status of every system on your ship, both the shield and hull health as   
+well as the repair percentage of your engines, lasers, life support, and reactor. You also get to   
+see how many of each resource you have on board.                                                    
+                                                                                                    
+Press '3' to see ***Energy Management***                                                            
+   Use the left and right arrow keys to select a system to modify the energy distribution to. Use   
+the up and down arrow keys to adjust the amount of energy each system has. The higher your shield   
+energy, the less damage you take. The higher your lasers, the more damage you deal to other ships.  
+The higher your engine power, the more enemy lasers and torpedoes you dodge. The higher your life   
+support system, the faster your crew repairs systems. The Aux Power shows you how much extra power  
+you have to work with.                                                                              
+                                                                                                    
+Press '4' to see ***Systems Repair***                                                               
+   Use the up and down arrow keys to select which system you'd like to assign crew to. Use the left 
+and right arrow keys to assign more or less crew members to repair each system. Up to 3 crew members
+can work on a system at a time. The more crew members working on a system, the faster it's repaired.
+                                                                                                    
+Every time you enter a new sector, if there are enemy ships, the battle begins. Every two seconds   
+a ship fires its weapons. Sometimes it's you, sometimes it's the enemy. Make sure you know what's in
+your sector so you can manage your ship accordingly. There is no pause button. If you do nothing,   
+then you'll be destroyed!                                                                           
+                                                                                                    
+        Good luck, and have fun!                                                                    
+                                            Press any key to go back to the main menu . . .         
